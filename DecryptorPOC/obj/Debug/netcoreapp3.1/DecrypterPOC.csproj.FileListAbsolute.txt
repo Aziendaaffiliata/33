@@ -1,0 +1,14 @@
+C:\Safefolder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Debug\netcoreapp3.1\DecrypterPOC.exe
+C:\Safefolder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Debug\netcoreapp3.1\DecrypterPOC.deps.json
+C:\Safefolder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Debug\netcoreapp3.1\DecrypterPOC.runtimeconfig.json
+C:\Safefolder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Debug\netcoreapp3.1\DecrypterPOC.runtimeconfig.dev.json
+C:\Safefolder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Debug\netcoreapp3.1\DecrypterPOC.dll
+C:\Safefolder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\bin\Debug\netcoreapp3.1\DecrypterPOC.pdb
+C:\Safefolder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\obj\Debug\netcoreapp3.1\DecrypterPOC.csproj.AssemblyReference.cache
+C:\Safefolder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\obj\Debug\netcoreapp3.1\DecrypterPOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Safefolder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\obj\Debug\netcoreapp3.1\DecrypterPOC.AssemblyInfoInputs.cache
+C:\Safefolder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\obj\Debug\netcoreapp3.1\DecrypterPOC.AssemblyInfo.cs
+C:\Safefolder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\obj\Debug\netcoreapp3.1\DecrypterPOC.csproj.CoreCompileInputs.cache
+C:\Safefolder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\obj\Debug\netcoreapp3.1\DecrypterPOC.dll
+C:\Safefolder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\obj\Debug\netcoreapp3.1\DecrypterPOC.pdb
+C:\Safefolder\DecrypterPOC-main\DecrypterPOC-main\DecryptorPOC\obj\Debug\netcoreapp3.1\DecrypterPOC.genruntimeconfig.cache
